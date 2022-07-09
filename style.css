@@ -4,8 +4,11 @@
     }
 }
 
-bi-twitter:hover{
+.social-icons i bi-twitter,
+bi-facebook,
+bi-youtube{
+    font-size: 10px;
+}
+.social-icons bi-twitter:hover{
     color: rgb(26, 146, 243);
 }
-i bi bi-facebook:hover
-bi-youtube:hover
